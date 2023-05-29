@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-29T12:23:21 EDT" name="Suite" finished-at="2023-05-29T12:23:41 EDT" duration-ms="19885">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T12:23:21 EDT" name="Test" finished-at="2023-05-29T12:23:41 EDT" duration-ms="19885">
+      <class name="com.saucedemo.testscripts.ScenarioFour">
+        <test-method is-config="true" signature="lunchBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioFour@3c7c886c]" started-at="2023-05-29T12:23:27 EDT" name="lunchBrowser" finished-at="2023-05-29T12:23:29 EDT" duration-ms="1926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method signature="scenarioFour()[pri:0, instance:com.saucedemo.testscripts.ScenarioFour@3c7c886c]" started-at="2023-05-29T12:23:29 EDT" name="scenarioFour" finished-at="2023-05-29T12:23:31 EDT" duration-ms="1496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioFour -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioFour@3c7c886c]" started-at="2023-05-29T12:23:31 EDT" name="closeBrowser" finished-at="2023-05-29T12:23:31 EDT" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.ScenarioFour -->
+      <class name="com.saucedemo.testscripts.ScenarioOne">
+        <test-method is-config="true" signature="lunchBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioOne@55493582]" started-at="2023-05-29T12:23:31 EDT" name="lunchBrowser" finished-at="2023-05-29T12:23:33 EDT" duration-ms="2006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method signature="scenarioOne()[pri:0, instance:com.saucedemo.testscripts.ScenarioOne@55493582]" started-at="2023-05-29T12:23:33 EDT" name="scenarioOne" finished-at="2023-05-29T12:23:35 EDT" duration-ms="1396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioOne@55493582]" started-at="2023-05-29T12:23:35 EDT" name="closeBrowser" finished-at="2023-05-29T12:23:35 EDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.ScenarioOne -->
+      <class name="com.saucedemo.testscripts.ScenarioFive">
+        <test-method is-config="true" signature="lunchBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioFive@4426bff1]" started-at="2023-05-29T12:23:21 EDT" name="lunchBrowser" finished-at="2023-05-29T12:23:24 EDT" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method signature="scenarioFive()[pri:0, instance:com.saucedemo.testscripts.ScenarioFive@4426bff1]" started-at="2023-05-29T12:23:24 EDT" name="scenarioFive" finished-at="2023-05-29T12:23:27 EDT" duration-ms="2446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioFive -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioFive@4426bff1]" started-at="2023-05-29T12:23:27 EDT" name="closeBrowser" finished-at="2023-05-29T12:23:27 EDT" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.ScenarioFive -->
+      <class name="com.saucedemo.testscripts.ScenarioTwo">
+        <test-method is-config="true" signature="lunchBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioTwo@6b88ca8c]" started-at="2023-05-29T12:23:38 EDT" name="lunchBrowser" finished-at="2023-05-29T12:23:40 EDT" duration-ms="2031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method signature="scenarioTwo()[pri:0, instance:com.saucedemo.testscripts.ScenarioTwo@6b88ca8c]" started-at="2023-05-29T12:23:40 EDT" name="scenarioTwo" finished-at="2023-05-29T12:23:41 EDT" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioTwo -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioTwo@6b88ca8c]" started-at="2023-05-29T12:23:41 EDT" name="closeBrowser" finished-at="2023-05-29T12:23:41 EDT" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.ScenarioTwo -->
+      <class name="com.saucedemo.testscripts.ScenarioThree">
+        <test-method is-config="true" signature="lunchBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioThree@1a20270e]" started-at="2023-05-29T12:23:35 EDT" name="lunchBrowser" finished-at="2023-05-29T12:23:37 EDT" duration-ms="1906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method signature="scenarioThree()[pri:0, instance:com.saucedemo.testscripts.ScenarioThree@1a20270e]" started-at="2023-05-29T12:23:37 EDT" name="scenarioThree" finished-at="2023-05-29T12:23:38 EDT" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioThree -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucedemo.testscripts.ScenarioThree@1a20270e]" started-at="2023-05-29T12:23:38 EDT" name="closeBrowser" finished-at="2023-05-29T12:23:38 EDT" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucedemo.testscripts.ScenarioThree -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
